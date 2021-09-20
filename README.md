@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Md. Ariful Haque
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning different types of react
 - 📫 md.ariful.haque2597@gmail.com
 
 <!---
